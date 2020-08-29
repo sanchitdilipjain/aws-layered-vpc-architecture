@@ -245,20 +245,17 @@
                <td>Role Name</td>
                <td>Group Name</td>
                <td>Policy</td>
-               <td>Other</td>
                </tr>
                <tr>
                <td>xxxxx-poc-superadmin-role</td>
                <td>xxxxxx-superadmin-group</td>
                <td>IAM full access</td>
-               <td></td>
                </tr>
                <tr>
                <td>xxxxx-serveradmin-role</td>
                <td>xxxxx-serveradmin-group</td>
                <td>Full access(EC2,ECS,ElasticBeanstalk,Lambda,
                  Autoscaling, ElasticloadBalancing,CloudWatch) </td>
-               <td></td>
                </tr>
                </table>
 
