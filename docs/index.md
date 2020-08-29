@@ -227,39 +227,39 @@
              </tr>
              </table>
       
-- **Identity and Access Management (IAM)**
-    - The AWS Identity and Access Management (IAM) enables you to securely control access to AWS services and resources for your users. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.
+      - **Identity and Access Management (IAM)**
+        - The AWS Identity and Access Management (IAM) enables you to securely control access to AWS services and resources for your users. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.
 
-      - **IAM Roles**
-          - An IAM role is similar to a user. It is an AWS identity with permission policies, which determines what the identity can and cannot do in AWS. Roles are used to delegate access to users, applications or services that don't normally have access to AWS resources. 
+          - **IAM Roles**
+              - An IAM role is similar to a user. It is an AWS identity with permission policies, which determines what the identity can and cannot do in AWS. Roles are used to delegate access to users, applications or services that don't normally have access to AWS resources. 
 
-      - **IAM Groups**
-          - An IAM group is a collection of IAM users. IAM Groups are used to specify permissions for a collection of users, which can make those permissions easier to manage for those users.
+          - **IAM Groups**
+              - An IAM group is a collection of IAM users. IAM Groups are used to specify permissions for a collection of users, which can make those permissions easier to manage for those users.
 
-      - **IAM Policy**
-          - An IAM policy is a document that formally states one or more permissions.
+          - **IAM Policy**
+              - An IAM policy is a document that formally states one or more permissions.
           
-             <table>
-             <th colspan="4">IAM Policy</th>
-             <tr>
-             <td>Role Name</td>
-             <td>Group Name</td>
-             <td>Policy</td>
-             <td>Other</td>
-             </tr>
-             <tr>
-             <td>xxxxx-poc-superadmin-role</td>
-             <td>xxxxxx-superadmin-group</td>
-             <td>IAM full access</td>
-             <td></td>
-             </tr>
-             <tr>
-             <td>xxxxx-serveradmin-role</td>
-             <td>xxxxx-serveradmin-group</td>
-             <td>Full access(EC2,ECS,ElasticBeanstalk,Lambda,
-               Autoscaling, ElasticloadBalancing,CloudWatch) </td>
-             <td></td>
-             </tr>
-             </table>
+               <table>
+               <th colspan="4">IAM Policy</th>
+               <tr>
+               <td>Role Name</td>
+               <td>Group Name</td>
+               <td>Policy</td>
+               <td>Other</td>
+               </tr>
+               <tr>
+               <td>xxxxx-poc-superadmin-role</td>
+               <td>xxxxxx-superadmin-group</td>
+               <td>IAM full access</td>
+               <td></td>
+               </tr>
+               <tr>
+               <td>xxxxx-serveradmin-role</td>
+               <td>xxxxx-serveradmin-group</td>
+               <td>Full access(EC2,ECS,ElasticBeanstalk,Lambda,
+                 Autoscaling, ElasticloadBalancing,CloudWatch) </td>
+               <td></td>
+               </tr>
+               </table>
 
 
