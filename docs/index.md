@@ -6,7 +6,7 @@
 
 - **2. Architecture Diagram**
 
-     <img src="image/img.png" alt="hi" class="inline"/>
+     <img src="image/7LayeredAWS.png" alt="hi" class="inline"/>
 
   - The Seven Layers in the Architecture: A brief description of the seven layers is provided below.
 
