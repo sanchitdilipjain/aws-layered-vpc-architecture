@@ -255,7 +255,8 @@
                <td>xxxxx-serveradmin-role</td>
                <td>xxxxx-serveradmin-group</td>
                <td>Full access(EC2,ECS,ElasticBeanstalk,
-                 Lambda,Autoscaling,ElasticloadBalancing,
+                 Lambda,Autoscaling,
+                 ElasticloadBalancing,
                  CloudWatch) </td>
                </tr>
                </table>
