@@ -1,4 +1,4 @@
-### Introduction to Amazon Layered Virtual Priavte Cloud Architecture  
+### Introduction to Amazon Layered Virtual Private Cloud Architecture  
 
 - **1. Overview**
   - This blog describes the basic Seven Layered network architecture. The following diagram shows the various components of the architecture; the VPC with two availability zones with several AWS Services, each of which is in place to support the organization within AWS Cloud.
@@ -6,7 +6,7 @@
 
 - **2. Architecture Diagram**
 
-     <img src="https://github.com/sanchitdilipjain/aws-layered-vpc-architecture/blob/master/docs/image/7LayeredAWS.png" alt="hi" class="inline"/>
+     <img src="docs/image/7LayeredAWS.png" alt="hi" class="inline"/>
 
   - The Seven Layers in the Architecture: A brief description of the seven layers is provided below.
 
